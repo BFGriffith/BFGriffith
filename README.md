@@ -11,3 +11,13 @@
 <p><img src="/images/bmc_qr.png" alt="BuyMeACoffee.com/BFGriffith" align="left" width="72px" height="72px">If you find B.F. Griffith’s work to be sufficiently valuable／useful to you that you would be willing to help fund it at whatever level (if any) that you think it’s worth (and can comfortably afford to spare), <a href="https://www.buymeacoffee.com/bfgriffith">BuyMeACoffee.com/BFGriffith</a> is the easiest, least onerous, and most direct way to do so…</p>
 
 > 🎁 However, [that site](https://www.buymeacoffee.com/bfgriffith) can also point you toward up to date links where you could alternatively (or additionally) purchase various fun or amusing assorted “nerdy” physical products, in which case buying any of that “merch” is another convenient way to more indirectly support B.F. Griffith’s work while tangibly getting something hopefully enjoyable in return at a good value even irrespective of all the freely available content that B.F. Griffith will gladly continue to publish as accessibly as possible with no paywalls.
+
+<h3 align="left">Connect with B.F. Griffith:</h3>
+<p align="left">
+<span>
+<a href="https://www.youtube.com/@pansophos" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube.com/@pansophos" height="32" width="32" align="center" /></a>
+<a href="https://www.reddit.com/r/pansophos/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="reddit.com/r/pansophos" height="32" width="32" align="center" /></a>
+<a href="https://www.LinkedIn.com/in/BFGriffith/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn.com/in/BFGriffith" height="32" width="32" align="center" /></a>
+<a href="https://www.buymeacoffee.com/BFGriffith" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" alt="buymeacoffee.com/BFGriffith" height="32" width="32" align="center" /></a>
+</span>
+</p>
