@@ -10,8 +10,8 @@
 <div align="center">
   <h3>If you enjoy philosophy, logic, history, or assorted other “intellectual” topics, these projects may interest you…</h3>
   <p align="left">
-    <a href="https://pansophos.github.io"><img src="https://github.com/BFGriffith/BFGriffith/blob/master/images/PANSOPHOS.png" title="πάνσοφος" alt="πάνσοφος"></a>
-    <a href="https://pansophos.github.io/LOGOS"><img src="https://github.com/BFGriffith/BFGriffith/blob/master/images/LOGOS.png" title="λόγος" alt="λόγος"></a>
+    <a href="https://pansophos.github.io"><img src="https://github.com/BFGriffith/BFGriffith/blob/master/images/PANSOPHOS.png" title="πάνσοφος" alt="πάνσοφος" height="290" width="290"></a>
+    <a href="https://pansophos.github.io/LOGOS"><img src="https://github.com/BFGriffith/BFGriffith/blob/master/images/LOGOS.png" title="λόγος" alt="λόγος" height="290" width="auto"></a>
   </p>
 </div>
 
