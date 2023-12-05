@@ -7,19 +7,40 @@
 
 ---
 
-<div align="center">
-  <h3>If you enjoy philosophy, logic, history, or assorted other “intellectual” topics, these projects may interest you…</h3>
-  <p align="left">
-    <a href="https://pansophos.github.io"><img src="https://github.com/BFGriffith/BFGriffith/blob/master/images/PANSOPHOS.png" title="πάνσοφος" alt="πάνσοφος" height="290" width="290"></a>
-    <a href="https://pansophos.github.io/LOGOS"><img src="https://github.com/BFGriffith/BFGriffith/blob/master/images/LOGOS.png" title="λόγος" alt="λόγος" height="290" width="auto"></a>
-  </p>
-</div>
+<h2>🛠️&nbsp;Assorted Technical Tools B.F. Griffith Has Experience Working With!</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jasmine/jasmine-plain.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/karma/karma-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="45" height="45"/>
+</p>
 
 ---
   
 <div align="left">
 <img src="/images/bmc_qr.png" alt="BuyMeACoffee.com/BFGriffith" align="left" width="72px" height="72px">
-<p align="left">If you find B.F. Griffith’s work to be sufficiently valuable／useful to you that you’d be willing to help fund it at whatever level (if any) that you think it’s worth (and can comfortably afford to spare), <a href="https://www.buymeacoffee.com/bfgriffith">BuyMeACoffee.com/BFGriffith</a> is the easiest, least onerous, and most direct way to do so…</p>
+<p align="left">If you find B.F. Griffith’s work to be sufficiently valuable／useful to you that you’d be willing to help fund it at whatever level that you think it’s worth (and can comfortably afford to spare), <a href="https://www.buymeacoffee.com/bfgriffith">BuyMeACoffee.com/BFGriffith</a> is the easiest, least onerous, and most direct way to do so…</p>
 <img src="/images/Gold_Flying_Griffin_Mycenae_Schliemann.png" alt="flying Mycenaen Gryphon, Schliemann" align="right">
 </div>
 
@@ -28,8 +49,6 @@
 <div align="center"><h3 align="center"><img align="center" src="https://github.com/BFGriffith/BFGriffith/blob/master/images/mind-map.png" height="30" width="30">Connect with B.F. Griffith:</h3></div>
 <p align="center">
 <span>
-<a href="https://www.youtube.com/@pansophos" target="_blank"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" alt="youtube.com/@pansophos" height="32" width="32" align="center" /></a>
-<a href="https://www.reddit.com/r/pansophos/" target="_blank"><img src="https://www.vectorlogo.zone/logos/reddit/reddit-tile.svg" alt="reddit.com/r/pansophos" height="32" width="32" align="center" /></a>
 <a href="https://www.LinkedIn.com/in/BFGriffith/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn.com/in/BFGriffith" height="32" width="32" align="center" /></a>
 <a href="https://www.buymeacoffee.com/BFGriffith" target="_blank"><img src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-icon.svg" alt="BuyMeACoffee.com/BFGriffith" height="32" width="32" align="center" /></a>
 </span>
